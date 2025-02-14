@@ -1,0 +1,59 @@
+.container {
+  width: 60%;
+  display: flex;
+  gap: 10px;
+}
+
+.boxWhite {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border: 5px solid black;
+  border-radius: 10px;
+  margin-top: 10px;
+  background-color: white;
+}
+
+.boxGreen {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border: 5px solid black;
+  border-radius: 10px;
+  margin-top: 10px;
+  background-color: #45f395;
+  position: relative;
+}
+
+.boxRed {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border: 5px solid black;
+  border-radius: 10px;
+  margin-top: 10px;
+  background-color: #f36445;
+  position: relative;
+}
+
+.flImg {
+  width: 100%;
+  aspect-ratio: 1/1;
+  opacity: .5;
+  position: absolute;
+}
+
+.img {
+  width: 100%;
+}
+
+.text {
+  color: black;
+  font-weight: bold;
+}

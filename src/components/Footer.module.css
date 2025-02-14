@@ -1,0 +1,16 @@
+.container {
+  width: 80%;
+  margin: 30px auto;
+}
+
+.line {
+  border-top: 2px solid black;
+  width: 50%;
+  margin: 0 auto;
+}
+
+.text {
+  color: white;
+  margin: 0 auto;
+  text-align: center;
+}

@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.imgLogo {
+  width: 90%;
+  max-width: 300px;
+  transition: all ease 0.3s;
+}
+
+.imgLogo:hover {
+  transform: scale(1.1, 1.1)
+}

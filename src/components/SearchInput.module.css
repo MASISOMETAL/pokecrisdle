@@ -1,0 +1,27 @@
+.container {
+  width: 50%;
+  margin: 15px auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+}
+
+.input {
+  width: 60%;
+  height: 60px;
+  font-size: 1.2em;
+  border-radius: 20px;
+  border: 7px solid #294e68;
+  padding-left: 10px;
+}
+
+.containerCard {
+  width: 60%;
+  position: absolute;
+  top: 60px;
+  max-height: 250px;
+  overflow: auto;
+  background-color: white;
+  z-index: 3;
+}

@@ -1,0 +1,25 @@
+.container {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+
+.container:hover {
+  background-color: #d3d3d3;
+  cursor: pointer;
+}
+
+.containerImg {
+  width: 60px;
+  object-fit: cover;
+}
+
+.img {
+  border: 2px solid black;
+  width: 100%;
+}
+
+.text {
+  color: black;
+  margin-left: 10px;
+}
