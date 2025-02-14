@@ -15,7 +15,7 @@ export const pokemonSlice = createSlice({
   reducers: {
     selectPokemon: (state, { payload }) => {
 
-      state.pokemonsSelected.push(payload)
+      state.pokemonsSelected.unshift(payload)
       const filterP = state.pokemons.filter(item => item.id != payload.id)
       state.pokemons = filterP
       state.intentos++
