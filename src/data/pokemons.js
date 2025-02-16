@@ -7,7 +7,7 @@ export const Pokemons = [
     tipo2: "Veneno",
     habitat: "Pastizal",
     evolucion: "1",
-    altura: "70",
+    altura: "0.7",
     peso: "6.9"
   },
   {
@@ -18,7 +18,7 @@ export const Pokemons = [
     tipo2: "Veneno",
     habitat: "Pastizal",
     evolucion: "2",
-    altura: "100",
+    altura: "1",
     peso: "13"
   },
   {
@@ -29,7 +29,7 @@ export const Pokemons = [
     tipo2: "Veneno",
     habitat: "Pastizal",
     evolucion: "3",
-    altura: "200",
+    altura: "2",
     peso: "100"
   },
   {
@@ -40,7 +40,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Montaña",
     evolucion: "1",
-    altura: "60",
+    altura: "0.6",
     peso: "8.5"
   },
   {
@@ -51,7 +51,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Montaña",
     evolucion: "2",
-    altura: "110",
+    altura: "1.1",
     peso: "19"
   },
   {
@@ -62,7 +62,7 @@ export const Pokemons = [
     tipo2: "Volador",
     habitat: "Montaña",
     evolucion: "3",
-    altura: "170",
+    altura: "1.7",
     peso: "90.5"
   },
   {
@@ -73,7 +73,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Agua dulce",
     evolucion: "1",
-    altura: "50",
+    altura: "0.5",
     peso: "9"
   },
   {
@@ -84,7 +84,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Agua dulce",
     evolucion: "2",
-    altura: "100",
+    altura: "1",
     peso: "22.5"
   },
   {
@@ -95,7 +95,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Agua dulce",
     evolucion: "3",
-    altura: "160",
+    altura: "1.6",
     peso: "85.5"
   },
   {
@@ -106,7 +106,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Bosque",
     evolucion: "1",
-    altura: "30",
+    altura: "0.3",
     peso: "2.9"
   },
   {
@@ -117,7 +117,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Bosque",
     evolucion: "2",
-    altura: "70",
+    altura: "0.7",
     peso: "9.9"
   },
   {
@@ -128,7 +128,7 @@ export const Pokemons = [
     tipo2: "Volador",
     habitat: "Bosque",
     evolucion: "3",
-    altura: "110",
+    altura: "1.1",
     peso: "32"
   },
   {
@@ -139,7 +139,7 @@ export const Pokemons = [
     tipo2: "Veneno",
     habitat: "Bosque",
     evolucion: "1",
-    altura: "30",
+    altura: "0.3",
     peso: "3.2"
   },
   {
@@ -150,7 +150,7 @@ export const Pokemons = [
     tipo2: "Veneno",
     habitat: "Bosque",
     evolucion: "2",
-    altura: "60",
+    altura: "0.6",
     peso: "10"
   },
   {
@@ -161,7 +161,7 @@ export const Pokemons = [
     tipo2: "Veneno",
     habitat: "Bosque",
     evolucion: "3",
-    altura: "100",
+    altura: "1.0",
     peso: "29.5"
   },
   {
@@ -172,7 +172,7 @@ export const Pokemons = [
     tipo2: "Volador",
     habitat: "Bosque",
     evolucion: "1",
-    altura: "30",
+    altura: "0.3",
     peso: "1.8"
   },
   {
@@ -183,7 +183,7 @@ export const Pokemons = [
     tipo2: "Volador",
     habitat: "Bosque",
     evolucion: "2",
-    altura: "70",
+    altura: "1.1",
     peso: "30"
   },
   {
@@ -194,7 +194,7 @@ export const Pokemons = [
     tipo2: "Volador",
     habitat: "Bosque",
     evolucion: "3",
-    altura: "150",
+    altura: "1.5",
     peso: "39.5"
   },
   {
@@ -205,7 +205,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Ciudades",
     evolucion: "1",
-    altura: "30",
+    altura: "0.3",
     peso: "3.5"
   },
   {
@@ -216,9 +216,10 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Ciudades",
     evolucion: "2",
-    altura: "70",
+    altura: "0.7",
     peso: "18.5"
   },
+  // por aca
   {
     id: "021",
     name: "Spearow",
@@ -227,7 +228,7 @@ export const Pokemons = [
     tipo2: "Volador",
     habitat: "Bosque",
     evolucion: "1",
-    altura: "30",
+    altura: "0.3",
     peso: "2"
   },
   {
@@ -238,7 +239,7 @@ export const Pokemons = [
     tipo2: "Volador",
     habitat: "Bosque",
     evolucion: "2",
-    altura: "100",
+    altura: "1.2",
     peso: "38"
   },
   {
@@ -249,7 +250,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Bosque",
     evolucion: "1",
-    altura: "20",
+    altura: "2.0",
     peso: "6.9"
   },
   {
@@ -260,7 +261,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Bosque",
     evolucion: "2",
-    altura: "350",
+    altura: "3.5",
     peso: "65"
   },
   {
@@ -271,7 +272,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Bosque",
     evolucion: "1",
-    altura: "40",
+    altura: "0.4",
     peso: "6"
   },
   {
@@ -282,7 +283,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Bosque",
     evolucion: "2",
-    altura: "80",
+    altura: "0.8",
     peso: "30"
   },
   {
@@ -293,7 +294,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Desierto",
     evolucion: "1",
-    altura: "60",
+    altura: "0.6",
     peso: "12"
   },
   {
@@ -304,7 +305,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Desierto",
     evolucion: "2",
-    altura: "100",
+    altura: "1",
     peso: "29.5"
   },
   {
@@ -315,7 +316,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Praderas",
     evolucion: "1",
-    altura: "40",
+    altura: "0.4",
     peso: "7"
   },
   {
@@ -326,7 +327,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Praderas",
     evolucion: "2",
-    altura: "80",
+    altura: "0.8",
     peso: "20"
   },
   {
@@ -337,7 +338,7 @@ export const Pokemons = [
     tipo2: "Tierra",
     habitat: "Praderas",
     evolucion: "3",
-    altura: "130",
+    altura: "1.3",
     peso: "60"
   },
   {
@@ -348,7 +349,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Praderas",
     evolucion: "1",
-    altura: "40",
+    altura: "0.5",
     peso: "9"
   },
   {
@@ -359,7 +360,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Praderas",
     evolucion: "2",
-    altura: "90",
+    altura: "0.9",
     peso: "19.5"
   },
   {
@@ -370,7 +371,7 @@ export const Pokemons = [
     tipo2: "Tierra",
     habitat: "Praderas",
     evolucion: "3",
-    altura: "140",
+    altura: "1.4",
     peso: "62"
   },
   {
@@ -381,7 +382,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Montaña",
     evolucion: "1",
-    altura: "60",
+    altura: "0.6",
     peso: "7.5"
   },
   {
@@ -392,7 +393,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Montaña",
     evolucion: "2",
-    altura: "130",
+    altura: "1.3",
     peso: "40"
   },
   {
@@ -403,8 +404,8 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Montaña",
     evolucion: "1",
-    altura: "30",
-    peso: "6.5"
+    altura: "0.6",
+    peso: "9.9"
   },
   {
     id: "038",
@@ -414,7 +415,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Montaña",
     evolucion: "2",
-    altura: "110",
+    altura: "1.1",
     peso: "19.9"
   },
   {
@@ -425,7 +426,7 @@ export const Pokemons = [
     tipo2: "Hada",
     habitat: "Ciudades",
     evolucion: "1",
-    altura: "50",
+    altura: "0.5",
     peso: "5.5"
   },
   {
@@ -436,7 +437,7 @@ export const Pokemons = [
     tipo2: "Hada",
     habitat: "Ciudades",
     evolucion: "2",
-    altura: "100",
+    altura: "1",
     peso: "12"
   },
   {
@@ -447,7 +448,7 @@ export const Pokemons = [
     tipo2: "Volador",
     habitat: "Cuevas",
     evolucion: "1",
-    altura: "40",
+    altura: "0.8",
     peso: "7.5"
   },
   {
@@ -458,7 +459,7 @@ export const Pokemons = [
     tipo2: "Volador",
     habitat: "Cuevas",
     evolucion: "2",
-    altura: "160",
+    altura: "1.6",
     peso: "55"
   },
   {
@@ -469,7 +470,7 @@ export const Pokemons = [
     tipo2: "Veneno",
     habitat: "Bosque",
     evolucion: "1",
-    altura: "50",
+    altura: "0.5",
     peso: "5.4"
   },
   {
@@ -480,7 +481,7 @@ export const Pokemons = [
     tipo2: "Veneno",
     habitat: "Bosque",
     evolucion: "2",
-    altura: "80",
+    altura: "0.8",
     peso: "8.6"
   },
   {
@@ -491,7 +492,7 @@ export const Pokemons = [
     tipo2: "Veneno",
     habitat: "Bosque",
     evolucion: "3",
-    altura: "120",
+    altura: "1.2",
     peso: "18.6"
   },
   {
@@ -502,7 +503,7 @@ export const Pokemons = [
     tipo2: "Planta",
     habitat: "Bosque",
     evolucion: "1",
-    altura: "30",
+    altura: "0.3",
     peso: "5.4"
   },
   {
@@ -513,7 +514,7 @@ export const Pokemons = [
     tipo2: "Planta",
     habitat: "Bosque",
     evolucion: "2",
-    altura: "100",
+    altura: "1",
     peso: "29.5"
   },
   {
@@ -524,8 +525,8 @@ export const Pokemons = [
     tipo2: "Veneno",
     habitat: "Bosque",
     evolucion: "1",
-    altura: "50",
-    peso: "30.5"
+    altura: "1",
+    peso: "30"
   },
   {
     id: "049",
@@ -535,7 +536,7 @@ export const Pokemons = [
     tipo2: "Veneno",
     habitat: "Bosque",
     evolucion: "2",
-    altura: "100",
+    altura: "1.5",
     peso: "12.5"
   },
   {
@@ -546,7 +547,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Subsuelo",
     evolucion: "1",
-    altura: "20",
+    altura: "0.2",
     peso: "0.8"
   },
   {
@@ -557,7 +558,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Subsuelo",
     evolucion: "2",
-    altura: "70",
+    altura: "0.7",
     peso: "33.3"
   },
   {
@@ -568,7 +569,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Ciudades",
     evolucion: "1",
-    altura: "40",
+    altura: "0.4",
     peso: "4.2"
   },
   {
@@ -579,7 +580,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Ciudades",
     evolucion: "2",
-    altura: "90",
+    altura: "1",
     peso: "32"
   },
   {
@@ -590,7 +591,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Agua dulce",
     evolucion: "1",
-    altura: "80",
+    altura: "0.8",
     peso: "19.6"
   },
   {
@@ -601,7 +602,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Agua dulce",
     evolucion: "2",
-    altura: "170",
+    altura: "1.7",
     peso: "76.6"
   },
   {
@@ -612,7 +613,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Montaña",
     evolucion: "1",
-    altura: "50",
+    altura: "0.5",
     peso: "28"
   },
   {
@@ -623,7 +624,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Montaña",
     evolucion: "2",
-    altura: "100",
+    altura: "1",
     peso: "32"
   },
   {
@@ -634,7 +635,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Ciudades",
     evolucion: "1",
-    altura: "60",
+    altura: "0.7",
     peso: "19"
   },
   {
@@ -645,7 +646,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Ciudades",
     evolucion: "2",
-    altura: "190",
+    altura: "1.9",
     peso: "155"
   },
   {
@@ -656,7 +657,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Agua dulce",
     evolucion: "1",
-    altura: "40",
+    altura: "0.6",
     peso: "12.4"
   },
   {
@@ -667,19 +668,19 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Agua dulce",
     evolucion: "2",
-    altura: "100",
+    altura: "1",
     peso: "20"
   },
   {
     id: "062",
-    name: "Politoed",
+    name: "Poliwrath",
     img: "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/62.png",
     tipo1: "Agua",
     tipo2: "Ninguno",
     habitat: "Agua dulce",
     evolucion: "3",
-    altura: "130",
-    peso: "33.9"
+    altura: "1.3",
+    peso: "54"
   },
   {
     id: "063",
@@ -689,8 +690,8 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Ciudades",
     evolucion: "1",
-    altura: "40",
-    peso: "8"
+    altura: "0.9",
+    peso: "19.5"
   },
   {
     id: "064",
@@ -700,7 +701,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Ciudades",
     evolucion: "2",
-    altura: "90",
+    altura: "1.3",
     peso: "56.5"
   },
   {
@@ -711,7 +712,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Ciudades",
     evolucion: "3",
-    altura: "120",
+    altura: "1.5",
     peso: "48"
   },
   {
@@ -722,7 +723,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Montaña",
     evolucion: "1",
-    altura: "60",
+    altura: "0.8",
     peso: "19.5"
   },
   {
@@ -733,7 +734,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Montaña",
     evolucion: "2",
-    altura: "140",
+    altura: "1.5",
     peso: "70.5"
   },
   {
@@ -744,7 +745,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Montaña",
     evolucion: "3",
-    altura: "160",
+    altura: "1.6",
     peso: "130"
   },
   {
@@ -755,7 +756,7 @@ export const Pokemons = [
     tipo2: "Veneno",
     habitat: "Bosque",
     evolucion: "1",
-    altura: "50",
+    altura: "0.7",
     peso: "4"
   },
   {
@@ -766,7 +767,7 @@ export const Pokemons = [
     tipo2: "Veneno",
     habitat: "Bosque",
     evolucion: "2",
-    altura: "100",
+    altura: "1",
     peso: "6.4"
   },
   {
@@ -777,7 +778,7 @@ export const Pokemons = [
     tipo2: "Veneno",
     habitat: "Bosque",
     evolucion: "3",
-    altura: "150",
+    altura: "1.7",
     peso: "15.5"
   },
   {
@@ -788,8 +789,8 @@ export const Pokemons = [
     tipo2: "Veneno",
     habitat: "Agua salada",
     evolucion: "1",
-    altura: "60",
-    peso: "45"
+    altura: "0.9",
+    peso: "45.5"
   },
   {
     id: "073",
@@ -799,7 +800,7 @@ export const Pokemons = [
     tipo2: "Veneno",
     habitat: "Agua salada",
     evolucion: "2",
-    altura: "160",
+    altura: "1.6",
     peso: "55"
   },
   {
@@ -810,7 +811,7 @@ export const Pokemons = [
     tipo2: "Tierra",
     habitat: "Montaña",
     evolucion: "1",
-    altura: "40",
+    altura: "0.4",
     peso: "20"
   },
   {
@@ -821,7 +822,7 @@ export const Pokemons = [
     tipo2: "Tierra",
     habitat: "Montaña",
     evolucion: "2",
-    altura: "100",
+    altura: "1",
     peso: "105"
   },
   {
@@ -832,7 +833,7 @@ export const Pokemons = [
     tipo2: "Tierra",
     habitat: "Montaña",
     evolucion: "3",
-    altura: "150",
+    altura: "1.4",
     peso: "300"
   },
   {
@@ -843,7 +844,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Praderas",
     evolucion: "1",
-    altura: "80",
+    altura: "1",
     peso: "30"
   },
   {
@@ -854,7 +855,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Praderas",
     evolucion: "2",
-    altura: "150",
+    altura: "1.7",
     peso: "95"
   },
   {
@@ -865,7 +866,7 @@ export const Pokemons = [
     tipo2: "Psíquico",
     habitat: "Aguas tranquilas",
     evolucion: "1",
-    altura: "120",
+    altura: "1.2",
     peso: "36"
   },
   {
@@ -876,7 +877,7 @@ export const Pokemons = [
     tipo2: "Psíquico",
     habitat: "Aguas tranquilas",
     evolucion: "2",
-    altura: "160",
+    altura: "1.6",
     peso: "78.5"
   },
   {
@@ -887,7 +888,7 @@ export const Pokemons = [
     tipo2: "Acero",
     habitat: "Fábricas",
     evolucion: "1",
-    altura: "30",
+    altura: "0.3",
     peso: "6"
   },
   {
@@ -898,7 +899,7 @@ export const Pokemons = [
     tipo2: "Acero",
     habitat: "Fábricas",
     evolucion: "2",
-    altura: "100",
+    altura: "1",
     peso: "60"
   },
   {
@@ -909,7 +910,7 @@ export const Pokemons = [
     tipo2: "Volador",
     habitat: "Praderas",
     evolucion: "1",
-    altura: "80",
+    altura: "0.8",
     peso: "15"
   },
   {
@@ -920,8 +921,8 @@ export const Pokemons = [
     tipo2: "Volador",
     habitat: "Praderas",
     evolucion: "1",
-    altura: "60",
-    peso: "19.2"
+    altura: "1.4",
+    peso: "39.2"
   },
   {
     id: "085",
@@ -931,7 +932,7 @@ export const Pokemons = [
     tipo2: "Volador",
     habitat: "Praderas",
     evolucion: "2",
-    altura: "140",
+    altura: "1.8",
     peso: "85.2"
   },
   {
@@ -942,7 +943,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Agua salada",
     evolucion: "1",
-    altura: "100",
+    altura: "1.1",
     peso: "90"
   },
   {
@@ -953,7 +954,7 @@ export const Pokemons = [
     tipo2: "Hielo",
     habitat: "Agua salada",
     evolucion: "2",
-    altura: "150",
+    altura: "1.7",
     peso: "120"
   },
   {
@@ -964,7 +965,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Ciudades",
     evolucion: "1",
-    altura: "90",
+    altura: "0.9",
     peso: "30"
   },
   {
@@ -975,7 +976,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Ciudades",
     evolucion: "2",
-    altura: "150",
+    altura: "1.2",
     peso: "30"
   },
   {
@@ -986,7 +987,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Agua salada",
     evolucion: "1",
-    altura: "40",
+    altura: "0.3",
     peso: "4"
   },
   {
@@ -997,7 +998,7 @@ export const Pokemons = [
     tipo2: "Hielo",
     habitat: "Agua salada",
     evolucion: "2",
-    altura: "130",
+    altura: "1.5",
     peso: "132.5"
   },
   {
@@ -1008,7 +1009,7 @@ export const Pokemons = [
     tipo2: "Veneno",
     habitat: "Cuevas",
     evolucion: "1",
-    altura: "40",
+    altura: "1.3",
     peso: "0.1"
   },
   {
@@ -1019,7 +1020,7 @@ export const Pokemons = [
     tipo2: "Veneno",
     habitat: "Cuevas",
     evolucion: "2",
-    altura: "80",
+    altura: "1.6",
     peso: "0.1"
   },
   {
@@ -1030,7 +1031,7 @@ export const Pokemons = [
     tipo2: "Veneno",
     habitat: "Cuevas",
     evolucion: "3",
-    altura: "150",
+    altura: "1.5",
     peso: "40.5"
   },
   {
@@ -1041,7 +1042,7 @@ export const Pokemons = [
     tipo2: "Tierra",
     habitat: "Montaña",
     evolucion: "1",
-    altura: "880",
+    altura: "8.8",
     peso: "210"
   },
   {
@@ -1052,7 +1053,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Ciudades",
     evolucion: "1",
-    altura: "100",
+    altura: "1",
     peso: "32.4"
   },
   {
@@ -1063,7 +1064,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Ciudades",
     evolucion: "2",
-    altura: "160",
+    altura: "1.6",
     peso: "75.6"
   },
   {
@@ -1074,7 +1075,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Agua salada",
     evolucion: "1",
-    altura: "40",
+    altura: "0.4",
     peso: "6.5"
   },
   {
@@ -1085,7 +1086,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Agua salada",
     evolucion: "2",
-    altura: "130",
+    altura: "1.3",
     peso: "60"
   },
   {
@@ -1096,7 +1097,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Ciudades",
     evolucion: "1",
-    altura: "50",
+    altura: "0.5",
     peso: "10.4"
   },
   {
@@ -1107,7 +1108,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Ciudades",
     evolucion: "2",
-    altura: "120",
+    altura: "1.2",
     peso: "66.6"
   },
   {
@@ -1118,7 +1119,7 @@ export const Pokemons = [
     tipo2: "Psíquico",
     habitat: "Bosques",
     evolucion: "1",
-    altura: "40",
+    altura: "0.4",
     peso: "2.5"
   },
   {
@@ -1129,7 +1130,7 @@ export const Pokemons = [
     tipo2: "Psíquico",
     habitat: "Bosques",
     evolucion: "2",
-    altura: "200",
+    altura: "2",
     peso: "120"
   },
   {
@@ -1140,7 +1141,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Montañas",
     evolucion: "1",
-    altura: "40",
+    altura: "0.4",
     peso: "6.5"
   },
   {
@@ -1151,7 +1152,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Montañas",
     evolucion: "2",
-    altura: "100",
+    altura: "1",
     peso: "45"
   },
   {
@@ -1162,7 +1163,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Ciudades",
     evolucion: "1",
-    altura: "150",
+    altura: "1.5",
     peso: "49.8"
   },
   {
@@ -1173,7 +1174,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Ciudades",
     evolucion: "1",
-    altura: "140",
+    altura: "1.4",
     peso: "50.2"
   },
   {
@@ -1184,7 +1185,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Praderas",
     evolucion: "1",
-    altura: "120",
+    altura: "1.2",
     peso: "65.5"
   },
   {
@@ -1195,7 +1196,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Ciudades",
     evolucion: "1",
-    altura: "60",
+    altura: "0.6",
     peso: "1"
   },
   {
@@ -1206,7 +1207,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Ciudades",
     evolucion: "2",
-    altura: "120",
+    altura: "1.2",
     peso: "9.5"
   },
   {
@@ -1217,7 +1218,7 @@ export const Pokemons = [
     tipo2: "Roca",
     habitat: "Montañas",
     evolucion: "1",
-    altura: "100",
+    altura: "1",
     peso: "115"
   },
   {
@@ -1228,7 +1229,7 @@ export const Pokemons = [
     tipo2: "Roca",
     habitat: "Montañas",
     evolucion: "2",
-    altura: "190",
+    altura: "1.9",
     peso: "120"
   },
   {
@@ -1239,7 +1240,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Praderas",
     evolucion: "1",
-    altura: "110",
+    altura: "1.1",
     peso: "34.6"
   },
   {
@@ -1250,7 +1251,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Bosques",
     evolucion: "1",
-    altura: "100",
+    altura: "1",
     peso: "35"
   },
   {
@@ -1261,7 +1262,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Praderas",
     evolucion: "1",
-    altura: "220",
+    altura: "2.2",
     peso: "80"
   },
   {
@@ -1272,7 +1273,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Agua salada",
     evolucion: "1",
-    altura: "40",
+    altura: "0.4",
     peso: "8"
   },
   {
@@ -1283,7 +1284,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Agua salada",
     evolucion: "2",
-    altura: "120",
+    altura: "1.2",
     peso: "25"
   },
   {
@@ -1294,7 +1295,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Agua dulce",
     evolucion: "1",
-    altura: "60",
+    altura: "0.6",
     peso: "15"
   },
   {
@@ -1305,7 +1306,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Agua dulce",
     evolucion: "2",
-    altura: "130",
+    altura: "1.3",
     peso: "39"
   },
   {
@@ -1316,7 +1317,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Agua salada",
     evolucion: "1",
-    altura: "80",
+    altura: "0.8",
     peso: "34.5"
   },
   {
@@ -1327,7 +1328,7 @@ export const Pokemons = [
     tipo2: "Psíquico",
     habitat: "Agua salada",
     evolucion: "2",
-    altura: "110",
+    altura: "1.1",
     peso: "80"
   },
   {
@@ -1338,7 +1339,7 @@ export const Pokemons = [
     tipo2: "Hada",
     habitat: "Ciudades",
     evolucion: "1",
-    altura: "130",
+    altura: "1.3",
     peso: "54.5"
   },
   {
@@ -1349,7 +1350,7 @@ export const Pokemons = [
     tipo2: "Volador",
     habitat: "Bosques",
     evolucion: "1",
-    altura: "150",
+    altura: "1.5",
     peso: "56"
   },
   {
@@ -1360,7 +1361,7 @@ export const Pokemons = [
     tipo2: "Psíquico",
     habitat: "Ciudades",
     evolucion: "1",
-    altura: "140",
+    altura: "1.4",
     peso: "40.6"
   },
   {
@@ -1371,7 +1372,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Ciudades",
     evolucion: "1",
-    altura: "110",
+    altura: "1.1",
     peso: "30"
   },
   {
@@ -1382,7 +1383,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Montañas",
     evolucion: "1",
-    altura: "130",
+    altura: "1.3",
     peso: "44.5"
   },
   {
@@ -1393,7 +1394,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Bosques",
     evolucion: "1",
-    altura: "150",
+    altura: "1.5",
     peso: "55"
   },
   {
@@ -1404,8 +1405,8 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Praderas",
     evolucion: "1",
-    altura: "140",
-    peso: "88"
+    altura: "1.4",
+    peso: "88.4"
   },
   {
     id: "129",
@@ -1415,7 +1416,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Acuáticos",
     evolucion: "1",
-    altura: "60",
+    altura: "0.9",
     peso: "10"
   },
   {
@@ -1426,7 +1427,7 @@ export const Pokemons = [
     tipo2: "Volador",
     habitat: "Acuáticos",
     evolucion: "2",
-    altura: "600",
+    altura: "6.5",
     peso: "235"
   },
   {
@@ -1437,7 +1438,7 @@ export const Pokemons = [
     tipo2: "Hielo",
     habitat: "Lagos",
     evolucion: "1",
-    altura: "250",
+    altura: "2.5",
     peso: "220"
   },
   {
@@ -1448,7 +1449,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Ciudades",
     evolucion: "1",
-    altura: "40",
+    altura: "0.3",
     peso: "4"
   },
   {
@@ -1459,8 +1460,8 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Ciudades",
     evolucion: "1",
-    altura: "300",
-    peso: "65"
+    altura: "0.3",
+    peso: "6.5"
   },
   {
     id: "134",
@@ -1470,8 +1471,8 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Acuáticos",
     evolucion: "2",
-    altura: "1000",
-    peso: "290"
+    altura: "1",
+    peso: "29"
   },
   {
     id: "135",
@@ -1481,8 +1482,8 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Ciudades",
     evolucion: "2",
-    altura: "800",
-    peso: "245"
+    altura: "0.8",
+    peso: "24.5"
   },
   {
     id: "136",
@@ -1492,8 +1493,8 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Ciudades",
     evolucion: "2",
-    altura: "900",
-    peso: "250"
+    altura: "0.9",
+    peso: "25"
   },
   {
     id: "137",
@@ -1503,8 +1504,8 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Ciudades",
     evolucion: "1",
-    altura: "800",
-    peso: "365"
+    altura: "0.8",
+    peso: "36.5"
   },
   {
     id: "138",
@@ -1514,8 +1515,8 @@ export const Pokemons = [
     tipo2: "Agua",
     habitat: "Acuáticos",
     evolucion: "1",
-    altura: "400",
-    peso: "75"
+    altura: "0.4",
+    peso: "7.5"
   },
   {
     id: "139",
@@ -1525,8 +1526,8 @@ export const Pokemons = [
     tipo2: "Agua",
     habitat: "Acuáticos",
     evolucion: "2",
-    altura: "1000",
-    peso: "350"
+    altura: "1",
+    peso: "35"
   },
   {
     id: "140",
@@ -1536,8 +1537,8 @@ export const Pokemons = [
     tipo2: "Agua",
     habitat: "Acuáticos",
     evolucion: "1",
-    altura: "250",
-    peso: "115"
+    altura: "0.5",
+    peso: "11.5"
   },
   {
     id: "141",
@@ -1547,8 +1548,8 @@ export const Pokemons = [
     tipo2: "Agua",
     habitat: "Acuáticos",
     evolucion: "2",
-    altura: "1300",
-    peso: "405"
+    altura: "1.3",
+    peso: "40.5"
   },
   {
     id: "142",
@@ -1558,8 +1559,8 @@ export const Pokemons = [
     tipo2: "Volador",
     habitat: "Montañas",
     evolucion: "1",
-    altura: "1800",
-    peso: "590"
+    altura: "1.8",
+    peso: "59"
   },
   {
     id: "143",
@@ -1569,7 +1570,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Bosques",
     evolucion: "1",
-    altura: "2100",
+    altura: "2.1",
     peso: "460"
   },
   {
@@ -1580,8 +1581,8 @@ export const Pokemons = [
     tipo2: "Volador",
     habitat: "Montañas",
     evolucion: "1",
-    altura: "1700",
-    peso: "554"
+    altura: "1.7",
+    peso: "55.4"
   },
   {
     id: "145",
@@ -1591,8 +1592,8 @@ export const Pokemons = [
     tipo2: "Volador",
     habitat: "Ciudades",
     evolucion: "1",
-    altura: "1700",
-    peso: "525"
+    altura: "1.6",
+    peso: "52.6"
   },
   {
     id: "146",
@@ -1602,8 +1603,8 @@ export const Pokemons = [
     tipo2: "Volador",
     habitat: "Montañas",
     evolucion: "1",
-    altura: "2000",
-    peso: "600"
+    altura: "2",
+    peso: "60"
   },
   {
     id: "147",
@@ -1613,8 +1614,8 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Acuáticos",
     evolucion: "1",
-    altura: "130",
-    peso: "33.5"
+    altura: "1.8",
+    peso: "3.3"
   },
   {
     id: "148",
@@ -1624,8 +1625,8 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Acuáticos",
     evolucion: "2",
-    altura: "400",
-    peso: "160"
+    altura: "4",
+    peso: "16.5"
   },
   {
     id: "149",
@@ -1635,7 +1636,7 @@ export const Pokemons = [
     tipo2: "Volador",
     habitat: "Acuáticos",
     evolucion: "3",
-    altura: "2200",
+    altura: "2.2",
     peso: "210"
   },
   {
@@ -1646,7 +1647,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Laboratorios",
     evolucion: "1",
-    altura: "2000",
+    altura: "2",
     peso: "122"
   },
   {
@@ -1657,7 +1658,7 @@ export const Pokemons = [
     tipo2: "Ninguno",
     habitat: "Islas Secretas",
     evolucion: "1",
-    altura: "400",
-    peso: "40"
+    altura: "0.4",
+    peso: "4"
   }
 ];

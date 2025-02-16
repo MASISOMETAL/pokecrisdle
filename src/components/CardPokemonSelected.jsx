@@ -28,7 +28,7 @@ const CardPokemonSelected = ({ item }) => {
         {Number(pokemonDay.evolucion) > Number(item.evolucion) && <img src={flup} alt="" className={styles.flImg} />}
       </div>
       <div className={pokemonDay.altura == item.altura ? styles.boxGreen : styles.boxRed}>
-        <span className={styles.text}>{item.altura} cm</span>
+        <span className={styles.text}>{item.altura} m</span>
         {Number(pokemonDay.altura) < Number(item.altura) && <img src={flDown} alt="" className={styles.flImg} />}
         {Number(pokemonDay.altura) > Number(item.altura) && <img src={flup} alt="" className={styles.flImg} />}
       </div>
