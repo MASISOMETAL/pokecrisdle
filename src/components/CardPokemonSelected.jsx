@@ -12,6 +12,7 @@ const CardPokemonSelected = ({ item }) => {
     <div className={styles.container}>
       <div className={styles.boxWhite}>
         <img src={item.img} alt={item.name} className={styles.img} />
+        <span className={styles.textName}>{item.name}</span>
       </div>
       <div className={pokemonDay.tipo1 == item.tipo1 ? styles.boxGreen : styles.boxRed}>
         <span className={styles.text}>{item.tipo1}</span>

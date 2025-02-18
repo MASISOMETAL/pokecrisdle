@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <div className={styles.container}>
       <div className={styles.line}></div>
-      <p className={styles.text}>pagina creada por cris</p>
+      <p className={styles.text}>Página creada por Cris</p>
     </div>
   )
 }
