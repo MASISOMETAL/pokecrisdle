@@ -21,7 +21,7 @@ const PokemonSelected = () => {
       </div>
 
       <div className={styles.containerListPokemon}>
-        {PokemonsSelected && PokemonsSelected.map(item=> <CardPokemonSelected key={item.id} item={item} />)}
+        {PokemonsSelected && PokemonsSelected.map((item, index)=> <CardPokemonSelected key={item.id} item={item} index={index} />)}
       </div>
     </div>
   )

@@ -37,7 +37,7 @@ const SearchInput = () => {
       />
 
       <div className={styles.containerCard}>
-        {pokeFilter && pokeFilter.map(item => <PokemonFilter item={item} key={item.id} selectedPokemon={selectedPokemon} />)}
+        {pokeFilter && pokeFilter.map((item, index) => <PokemonFilter item={item} key={item.id} selectedPokemon={selectedPokemon} index={index} />)}
       </div>
     </div>
     
