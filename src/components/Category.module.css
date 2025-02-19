@@ -1,5 +1,5 @@
 .container {
-  flex: 1;
+  flex: 1 0 90px;
   padding: 5px 0;
   display: flex;
   justify-content: center;
@@ -10,4 +10,10 @@
 }
 .text {
   text-shadow: 2px 2px 2px black;
+}
+
+@media (max-width: 480px) {
+  .container {
+    flex: 1 0 100px;
+  }
 }

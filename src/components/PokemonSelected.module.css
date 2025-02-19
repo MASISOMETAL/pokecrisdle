@@ -16,3 +16,12 @@
   align-items: center;
   color: white;
 }
+
+@media (max-width: 480px) {
+  .container {
+    overflow-y: auto;
+  }
+  .containerCategorys {
+    width: 100%;
+  }
+}

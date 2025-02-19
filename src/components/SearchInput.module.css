@@ -25,3 +25,16 @@
   background-color: white;
   z-index: 3;
 }
+
+@media (max-width: 480px) {
+  .container {
+    width: 100%;
+  }
+  .input {
+    width: 100%;
+  }
+  
+  .containerCard {
+    width: 100%;
+  }
+}

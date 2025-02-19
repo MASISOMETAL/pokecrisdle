@@ -11,3 +11,10 @@
   gap: 10px;
   color: white;
 }
+
+@media (max-width: 480px) {
+  .container {
+    width: 100%;
+    padding: 30px 0;
+  }
+}
