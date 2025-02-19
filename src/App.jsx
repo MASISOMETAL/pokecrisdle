@@ -8,6 +8,7 @@ import PokemonSelected from './components/PokemonSelected'
 import Footer from './components/Footer'
 import Modal from './components/Modal'
 import { useSelector } from 'react-redux'
+import Fireworks from './components/FireworksComponent'
 
 const App = () => {
 
@@ -16,7 +17,11 @@ const App = () => {
   return (
     <div className={styles.container}>
       <img className={styles.fondo} src={fondoIMG} alt="" />
-      {acierto && <Modal />}
+      {acierto &&
+        <>
+          <Fireworks />
+          <Modal />
+        </>}
       <div className={styles.content}>
         <Logo />
         <Header />
